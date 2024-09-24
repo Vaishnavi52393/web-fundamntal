@@ -1,0 +1,14 @@
+<DOCTYPE   html>
+<htnl>
+<head>
+<title> Assignment</title>
+<body>
+<artical>                                                                                                                                                                                               
+<h1>artical</h1>
+<h2>aside</h2>
+<h3>section</h3>
+<h4>header</h4>
+</artical>
+</head>
+</body>
+</html>
